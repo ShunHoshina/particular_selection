@@ -1,0 +1,2 @@
+# particular_selection
+言語化できないこだわりを言語化することを目標とする
